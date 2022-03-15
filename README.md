@@ -1,7 +1,7 @@
 # Olá, Eu sou a Karol! 👩🏻‍💻
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Devkarolsantiago)](https://github.com/Devkarolsantiago)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](http://https://www.linkedin.com/in/karolina-santiago-lopes-bb5885188/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/karolina-santiago-lopes-bb5885188/)
 
 
 ## Sobre mim:
