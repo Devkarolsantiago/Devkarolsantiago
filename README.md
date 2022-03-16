@@ -1,7 +1,7 @@
 # Olá, Eu sou a Karol! 👩🏻‍💻
-<meta>
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Devkarolsantiago)](https://github.com/Devkarolsantiago)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/karolina-santiago-lopes)
+
+<meta> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Devkarolsantiago)](https://github.com/Devkarolsantiago)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/karolina-santiago-lopes) </meta>
 
 
 ## Sobre mim:
@@ -19,4 +19,4 @@
 [![card](https://github-readme-stats.vercel.app/api?username=Devkarolsantiago&theme=highcontrast&show_icons=true)](https://github.com/Devkarolsantiago/)
 
 [![Devkarolsantiago](https://github-readme-stats.vercel.app/api/top-langs/?username=Devkarolsantiago&hide=html&layout=compact&theme=highcontrast)](https://github.com/Devkarolsantiago/) 
-</meta>
+
