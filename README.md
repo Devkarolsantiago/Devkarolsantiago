@@ -5,9 +5,8 @@
 
 
 ## Sobre mim:
- Sou estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi, estudante de enhenharia de dados. 
-
- [Cursos](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 
+ Sou estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi, estudante de enhenharia de dados.  👨🏼‍🏫 
+### Certificações:
 - [Phyton para Data Science](https://cursos.alura.com.br/certificate/5bb97edc-923d-4add-90bb-f8a37f6fc4ac)
 - [Phyton para data Science - Linguagem Numby](https://cursos.alura.com.br/certificate/adsantiagokarol/python-tipos-listas-numpy)
 - [HTML5 e CSS](https://cursos.alura.com.br/certificate/d854870b-628a-4180-a32f-f75c20b23ae0)
