@@ -5,7 +5,7 @@
 
 
 ## Sobre mim:
- Sou estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi, estudante de enhenharia de dados.  👨🏼‍🏫 
+ Sou estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi, estudante de Data Engineering. 👨🏼‍🏫 
 ### Certificações:
 - [Phyton para Data Science](https://cursos.alura.com.br/certificate/5bb97edc-923d-4add-90bb-f8a37f6fc4ac)
 - [Phyton para data Science - Linguagem Numby](https://cursos.alura.com.br/certificate/adsantiagokarol/python-tipos-listas-numpy)
