@@ -6,6 +6,7 @@
 
 ## About me:
  Sou estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi, estudante e furuta Data Engineering. 👨🏼‍🏫 
+<!--- Wrap
 ### Certifications:
 - [F SET certification English](https://www.efset.org/cert/zkSj7j)
 - [Redes](https://cursos.alura.com.br/certificate/770ae4b2-5d7d-4ba6-a383-6ce55d62ca59)
