@@ -5,7 +5,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green)](https://api.whatsapp.com/send?phone=5511945005110)
 
 ## About me:
- Sou estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi, estudante e furuta Data Engineering. 👨🏼‍🏫 
+ Sou estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi, estudante e furuta SRE. 👨🏼‍🏫 
 <!--- Wrap
 ### Certifications:
 - [F SET certification English](https://www.efset.org/cert/zkSj7j)
